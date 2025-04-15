@@ -10,3 +10,5 @@ try to make a simple lottery game using state ,Array,Design Pattern &component t
 #winning Lottery ticket[0]=0
 
 
+
+![Screenshot 2025-04-15 091755](https://github.com/user-attachments/assets/8baa3a26-50ee-4187-9fff-5789452889b8)
