@@ -6,8 +6,9 @@ try to make a simple lottery game using state ,Array,Design Pattern &component t
 
 
 #output
-
+![Screenshot 2025-04-15 091100](https://github.com/user-attachments/assets/3696a49e-f024-4619-b549-a6a9d1688a6e)
 #winning Lottery ticket[0]=0
+
 
 
 
